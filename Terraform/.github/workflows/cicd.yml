@@ -1,5 +1,4 @@
 name: CI/CD
-# test CI/CD workflow
 
 # Control what events trigger this workflow
 on:
